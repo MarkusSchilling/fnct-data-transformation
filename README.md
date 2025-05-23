@@ -37,7 +37,7 @@ For more details on the scripts presented in this repository and when using thos
 
 Bibtex:
 ```
-@article{Schilling2024,
+@article{Schilling2025,
    author = {Schilling, Markus and Marschall, Niklas and Niebergall, Ute and Boehning, Martin},
    title = {Modernizing FNCT Data Handling in Polymer Labs: Towards Efficient Management},
    journal = {Polymer},
@@ -45,11 +45,11 @@ Bibtex:
    ISSN = {},
    DOI = {},
    url = {},
-   year = {2024},
+   year = {2025},
    type = {Journal Article}
 }
 ```
-available open access at: [Polymer]().
+available open access at: [Computational Materials Science]().
 
 A dataset comprising example FNCT data can be found in the open Zenodo repository named [Dataset of comprehensive Full-notch creep tests (FNCT) of selected high-density polyethylene (PE-HD) materials (2023)](https://doi.org/10.5281/zenodo.10143351).
 
